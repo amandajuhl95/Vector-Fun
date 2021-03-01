@@ -16,20 +16,15 @@ answer: vector res = (7 0)
 
 ##### e)
 
-###### 1 
-answer: vector a + vector b = (8 3)
+###### 1 - answer: vector a + vector b = (8 3)
 
-###### 2
-answer: vector b + vector c = (3 7)
+###### 2 - answer: vector b + vector c = (3 7)
 
-###### 3
-answer: (vector a + vector b) + vector c = (6 9)
+###### 3 - answer: (vector a + vector b) + vector c = (6 9)
 
-###### 4
-answer: vector a + (vector b + vector c) = (6 9)
+###### 4 - answer: vector a + (vector b + vector c) = (6 9)
 
-###### 5
-answer: vector b + vector a = (8 3)
+###### 5 - answer: vector b + vector a = (8 3)
 
 ##### f)
 answer: 
@@ -71,6 +66,7 @@ answer: vector a * vector b = 26
 
 ##### r)
 answer: vector a * vector b = 0
+
 
 The rest of the answers you can find in the jupyter notebook.
 
